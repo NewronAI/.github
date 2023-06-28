@@ -1,2 +1,1 @@
-# .github
-Homepage of Newron.ai
+# Newron.ai
